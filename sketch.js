@@ -61,11 +61,11 @@ function setup() {
 
   // Title
   textSize(36);
-  text("Instrument Identification Practice", width/2, height/9);
+  text("Instrument ID Practice", width/2, height/9);
 
   // Subtitle
   textSize(20);
-  text("Listen to the question, then reveal the answer", width/2, height/9 + 40);
+  text("See canvas for list of instruments", width/2, height/9 + 40);
 
   // --- Layout variables ---
   let rowH = 60;
